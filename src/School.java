@@ -19,7 +19,7 @@ public class School {
 	 
 	*/
 	    public static void main(String args[]) {
-	    School mySchool = new School("Hogwarts", 7500);
+	    School mySchool = new School("Great School", 7500);
 	    		
 	    mySchool.AddSingleStudent("Mauricio", "Martinez", Student.Gender.MALE, 1);
 	    		
